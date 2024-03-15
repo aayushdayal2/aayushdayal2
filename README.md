@@ -12,7 +12,7 @@
  
  I’m running to be the new ***EngSoc President!*** Here's why you should ***vote for me...***
 
-<h3 align="center" color="red"> What I have done so far: </h3>
+<h3 align="center" color="red"> What I Have Done So Far: </h3>
  
 1.	***Past Executive Experience***: Served as ***VP Internal*** last year.
    
@@ -22,6 +22,15 @@
    
 4.	One of our student teams that qualified from OEC went to secure the ***Runner’s Up Position*** in the ***Canadian Engineering Competition*** in ***Calgary***.
 
+<h3 align="center" color="red"> What I Want To Do In The Coming Year: </h3>
+
+1.	Implement a faster mode of operation
+   
+2.	Throw more non-engineering related events like Avalanche
+   
+3.	Do more club/frat collaborations
+   
+4.	Provide timely & equitable funding
 
 
 <p align="center">
