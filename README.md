@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4300&lines=Hi+I'm+Aayush!+👋;+Your+New+EngSoc+President?;" />
 </h1>
 
-<h3 align="center">The Okanagan Engineering Society, or EngSoc, is UBCO's student engineering representative body.</h3>
+<h3 align="center"> I’m running to be the new EngSoc President! Here's why you should vote for me...</h3>
 
 <br/>
 
 <div align="center">
- 
- I’m running to be the new ***EngSoc President!*** Here's why you should ***vote for me...***
 
 <h3 align="center" color="red"> What I Have Done So Far: </h3>
+
+<br/>
  
 1.	***Past Executive Experience***: Served as ***VP Internal*** last year.
    
@@ -22,7 +22,11 @@
    
 4.	One of our student teams that qualified from OEC went to secure the ***Runner’s Up Position*** in the ***Canadian Engineering Competition*** in ***Calgary***.
 
+<br/>
+
 <h3 align="center" color="red"> What I Want To Do In The Coming Year: </h3>
+
+<br/>
 
 1.	Implement a faster mode of operation
    
@@ -32,12 +36,8 @@
    
 4.	Provide timely & equitable funding
 
+<br/>
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="200"/>
-  <br>
-  <em>GitHub's Octocat Logo</em>
-</p>
 
 ⚡ You can **Connect With Me** here:
 
