@@ -92,7 +92,7 @@
     </li>
     <li><a href="#Pictures!">Pictures!</a></li>
     <li><a href="#Final-Exam-Jam-Playlist">Final Exam Jam Playlist</a></li>
-    <li><a href="#Other-Relevant-Stats-:sunglasses:">Other Relevant Stats :sunglasses:</a></li>
+    <li><a href="#Other-Relevant-Stats">Other Relevant Stats :sunglasses:</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -183,7 +183,7 @@ See the [open issues](https://github.com/issues) for a full list of proposed fea
 
 
 <!-- CONTRIBUTING -->
-## Other Relevant Stats :sunglasses:
+## Other Relevant Stats
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
