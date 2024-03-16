@@ -4,51 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4300&lines=Hi+I'm+Aayush!+👋;+Your+New+EngSoc+President?;" />
 </h1>
 
-
-
-
-<h3 align="center" color="red"> What I Want To Do In The Coming Year: </h3>
-
-
-
-
-⚡ You can **Connect With Me** here:
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:internal@suoengineeringsociety.ca">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/aayushdayal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/aa.dayal/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
-</p>
-
-<!-- Improved compatibility of back to top link: See: https://github.com/pull/73 -->
-<a name="readme-top"></a>
-
-
-
-
-
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -64,9 +19,17 @@
       </ul>
     </li>
     <li><a href="#Pictures!">Pictures!</a></li>
+      <ul>
+        <li><a href="#Executive's-Meeting-2023,-Saskatoon">EM 2023</a></li>
+        <li><a href="#Annual-General-Meeting-&-Retreat-2023,-Winnipeg">AGMR 2023</a></li>
+        <li><a href="#Okanagan-Engineering-Competition-2023,-Kelowna">OEC 2023</a></li>
+        <li><a href="#Western-Engineering-Competition-2024,-Winnipeg">WEC 2024</a></li>
+        <li><a href="#Conference-on-Sustainability-in-Engineering-2024,-Toronto">CSE 2024</a></li>
+        <li><a href="#Canadian-Engineering-Competition-2024,-Calgary">CEC 2024</a></li>
+      </ul>
     <li><a href="#Final-Exam-Jam-Playlist">Final Exam Jam Playlist</a></li>
     <li><a href="#Other-Relevant-Stats">Other Relevant Stats :sunglasses:</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#Contact">Contact</a></li>
   </ol>
 </details>
 
@@ -103,6 +66,18 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Pictures!
+
+### Executive's Meeting 2023, Saskatoon
+
+### Annual General Meeting & Retreat 2023, Winnipeg
+
+### Okanagan Engineering Competition 2023, Kelowna
+
+### Western Engineering Competition 2024, Winnipeg
+
+### Conference on Sustainability in Engineering 2024, Toronto
+
+### Canadian Engineering Competition 2024, Calgary
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -153,4 +128,46 @@ Don't forget to give the project a star! Thanks again!
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+⚡ You can **Connect With Me** here:
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:internal@suoengineeringsociety.ca">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/aayushdayal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/aa.dayal/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
+</p>
+
+<!-- Improved compatibility of back to top link: See: https://github.com/pull/73 -->
+<a name="readme-top"></a>
+
+
+
+
+
+
+
 
