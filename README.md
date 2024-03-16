@@ -4,39 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4300&lines=Hi+I'm+Aayush!+👋;+Your+New+EngSoc+President?;" />
 </h1>
 
-<h3 align="center"> I’m running to be the new EngSoc President! Here's why you should vote for me...</h3>
 
-<br/>
 
-<div align="center">
-
-<h3 align="center" color="red"> What I Have Done So Far: </h3>
-
-<br/>
- 
-1.	***Past Executive Experience***: Served as ***VP Internal*** last year.
-   
-2.	Served as ***UBCO’s Head Delegate*** and attended various ***Engineering Conferences*** in ***Toronto***, ***Winnipeg***, and ***Saskatoon***.
-   
-3.	Organised the ***Okanagan Engineering Competition (OEC)*** on campus.
-   
-4.	One of our student teams that qualified from OEC went to secure the ***Runner’s Up Position*** in the ***Canadian Engineering Competition*** in ***Calgary***.
-
-<br/>
 
 <h3 align="center" color="red"> What I Want To Do In The Coming Year: </h3>
 
-<br/>
 
-1.	Implement a faster mode of operation
-   
-2.	Throw more non-engineering related events like Avalanche
-   
-3.	Do more club/frat collaborations
-   
-4.	Provide timely & equitable funding
-
-<br/>
 
 
 ⚡ You can **Connect With Me** here:
@@ -102,18 +75,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About My Campaign
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The Okanagan Engineering Society, or EngSoc, is the student engineering represenative body of UBCO. I am the current Vice-President Internal of the EngSoc this year and am running to be the new President for the upcoming year. You can check out our instagram page here: 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+[@okanaganengsoc](https://www.instagram.com/okanaganengsoc?igsh=ZGx3Ymp5NzFnb3Jn)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,50 +86,28 @@ Use the `BLANK_README.md` to get started.
 <!-- GETTING STARTED -->
 ## Why You Should Vote For Me
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### What I Bring To The Table
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+1. ***Past Executive Experience:*** Serving as ***VP Internal*** this year
+2. Served as ***UBCO’s Head Delegate*** and attended various ***Engineering Conferences*** in ***Toronto***, ***Winnipeg***, and ***Saskatoon***
+3. Organised the ***Okanagan Engineering Competition (OEC)*** on campus
+4. One of our student teams that qualified from OEC went on to secure the ***Runner’s Up Position*** in the ***Canadian Engineering Competition*** in ***Calgary***
 
 ### What I Intend To Change
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Implement a ***faster mode of operation***
+2. Throw more ***non-engineering related events*** like ***Avalanche***
+3. Do more ***club/frat*** collaborations
+4. Provide timely & equitable ***funding***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## Pictures!
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
 ## Final Exam Jam Playlist
 
 - [x] Add Changelog
@@ -180,9 +122,6 @@ See the [open issues](https://github.com/issues) for a full list of proposed fea
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
 ## Other Relevant Stats
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -190,23 +129,28 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+* Bench: 135 lbs
+* Consequetive Keepie-Uppies: 56
+* Chess Elo (Rapid - 10 minutes): ~800
+* Fork the Project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-<!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+<h3 align="center">⚡ You can Connect With Me here:</h3>
+ 
+<div align="center"> 
+  <a href="mailto:internal@suoengineeringsociety.ca">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/aayushdayal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/aa.dayal/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
