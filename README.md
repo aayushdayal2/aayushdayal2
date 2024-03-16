@@ -84,14 +84,14 @@
       <a href="#About-My-Campaign">About My Campaign</a>
     </li>
     <li>
-      <a href="#getting-started">Why You Should Vote For Me</a>
+      <a href="#Why-You-Should-Vote-For-Me">Why You Should Vote For Me</a>
       <ul>
-        <li><a href="#prerequisites">What I Bring To The Table</a></li>
-        <li><a href="#installation">What I Intend To Change</a></li>
+        <li><a href="#What-I-Bring-To-The-Table">What I Bring To The Table</a></li>
+        <li><a href="#What-I-Intend-To-Change">What I Intend To Change</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Pictures!</a></li>
-    <li><a href="#roadmap">Final Exam Jam Playlist</a></li>
+    <li><a href="#Pictures!">Pictures!</a></li>
+    <li><a href="#Final-Exam-Jam-Playlist">Final Exam Jam Playlist</a></li>
     <li><a href="#Other-Relevant-Stats-:sunglasses:">Other Relevant Stats :sunglasses:</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
