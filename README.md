@@ -20,12 +20,12 @@
     </li>
     <li><a href="#Pictures!">Pictures!</a></li>
       <ul>
-        <li><a href="#Executive's-Meeting-2023,-Saskatoon">EM 2023</a></li>
-        <li><a href="#Annual-General-Meeting-&-Retreat-2023,-Winnipeg">AGMR 2023</a></li>
-        <li><a href="#Okanagan-Engineering-Competition-2023,-Kelowna">OEC 2023</a></li>
-        <li><a href="#Western-Engineering-Competition-2024,-Winnipeg">WEC 2024</a></li>
-        <li><a href="#Conference-on-Sustainability-in-Engineering-2024,-Toronto">CSE 2024</a></li>
-        <li><a href="#Canadian-Engineering-Competition-2024,-Calgary">CEC 2024</a></li>
+        <li><a href="#Executive's-Meeting-2023-,-Saskatoon">EM 2023</a></li>
+        <li><a href="#Annual-General-Meeting-&-Retreat-2023-,-Winnipeg">AGMR 2023</a></li>
+        <li><a href="#Okanagan-Engineering-Competition-2023-,-Kelowna">OEC 2023</a></li>
+        <li><a href="#Western-Engineering-Competition-2024-,-Winnipeg">WEC 2024</a></li>
+        <li><a href="#Conference-on-Sustainability-in-Engineering-2024-,-Toronto">CSE 2024</a></li>
+        <li><a href="#Canadian-Engineering-Competition-2024-,-Calgary">CEC 2024</a></li>
       </ul>
     <li><a href="#Final-Exam-Jam-Playlist">Final Exam Jam Playlist</a></li>
     <li><a href="#Other-Relevant-Stats">Other Relevant Stats :sunglasses:</a></li>
