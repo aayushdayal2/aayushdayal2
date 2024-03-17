@@ -64,7 +64,7 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 ### Executive Meeting 2023 Saskatoon
 
 ![Project Logo](images/em1.JPG)
-![Project Logo](images/em2.JPG)
+![Project Logo](images/em2.jpg)
 
 ### Annual General Meeting and Retreat 2023 Winnipeg
 
@@ -90,8 +90,8 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 ### Canadian Engineering Competition 2024 Calgary
 
-![Project Logo](images/cec1.JPG)
-![Project Logo](images/cec2.JPG)
+![Project Logo](images/cec1.jpeg)
+![Project Logo](images/cec2.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
