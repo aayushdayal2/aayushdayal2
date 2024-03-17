@@ -80,9 +80,9 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 ### Western Engineering Competition 2024 Winnipeg
 
-![Project Logo](images/wec1.JPG)
-![Project Logo](images/wec2.JPG)
-![Project Logo](images/wec3.JPG)
+![Project Logo](images/wec1.jpg)
+![Project Logo](images/wec2.jpg)
+![Project Logo](images/wec3.jpg)
 
 ### Conference on Sustainability in Engineering 2024 Toronto
 
