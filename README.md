@@ -33,9 +33,6 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About My Campaign
 
 The Okanagan Engineering Society, or EngSoc, is the student engineering represenative body of UBCO. I am the current Vice-President Internal of the EngSoc this year and am running to be the new President for the upcoming year. You can check out our instagram page here: 
@@ -44,9 +41,6 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 ## Why You Should Vote For Me
 
 ### What I Bring To The Table
@@ -79,8 +73,6 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 ### Canadian Engineering Competition 2024 Calgary
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Final Exam Jam Playlist
@@ -98,8 +90,6 @@ See the [open issues](https://github.com/issues) for a full list of proposed fea
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Other Relevant Stats
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -128,41 +118,6 @@ Don't forget to give the project a star! Thanks again!
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-⚡ You can **Connect With Me** here:
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:internal@suoengineeringsociety.ca">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/aayushdayal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/aa.dayal/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
-</p>
-
-<!-- Improved compatibility of back to top link: See: https://github.com/pull/73 -->
-<a name="readme-top"></a>
 
 
 
