@@ -65,6 +65,7 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 ![Project Logo](images/em1.JPG)
 ![Project Logo](images/em2.jpg)
+Photographer messed up :skull:
 
 ### Annual General Meeting and Retreat 2023 Winnipeg
 
@@ -109,14 +110,14 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 * Bench: 135 lbs
 * Consequetive Keepie-Uppies: 56
-* Chess Elo (Rapid - 10 minutes): ~800
+* Chess Elo (Rapid): ~900
 * Fork the Project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
-<h3 align="center">⚡ You can Connect With Me here:</h3>
+<h3 align="center">⚡You can Connect With Me here:</h3>
  
 <div align="center"> 
   <a href="mailto:internal@suoengineeringsociety.ca">
