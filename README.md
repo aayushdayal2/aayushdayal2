@@ -64,16 +64,34 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 ### Executive Meeting 2023 Saskatoon
 
 ![Project Logo](images/em1.JPG)
+![Project Logo](images/em2.JPG)
 
 ### Annual General Meeting and Retreat 2023 Winnipeg
 
+![Project Logo](images/agmr1.JPG)
+![Project Logo](images/agmr2.JPG)
+![Project Logo](images/agmr3.JPG)
+
 ### Okanagan Engineering Competition 2023 Kelowna
+
+![Project Logo](images/oec1.JPG)
+![Project Logo](images/oec2.JPG)
+![Project Logo](images/oec3.JPG)
 
 ### Western Engineering Competition 2024 Winnipeg
 
+![Project Logo](images/wec1.JPG)
+![Project Logo](images/wec2.JPG)
+![Project Logo](images/wec3.JPG)
+
 ### Conference on Sustainability in Engineering 2024 Toronto
 
+![Project Logo](images/cse1.JPG)
+
 ### Canadian Engineering Competition 2024 Calgary
+
+![Project Logo](images/cec1.JPG)
+![Project Logo](images/cec2.JPG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
