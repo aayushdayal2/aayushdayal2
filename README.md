@@ -75,8 +75,9 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 ### Okanagan Engineering Competition 2023 Kelowna
 
 ![Project Logo](images/oec1.JPG)
-![Project Logo](images/oec2.JPG)
 ![Project Logo](images/oec3.JPG)
+![Project Logo](images/oec2.JPG)
+
 
 ### Western Engineering Competition 2024 Winnipeg
 
@@ -90,29 +91,21 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 ### Canadian Engineering Competition 2024 Calgary
 
-![Project Logo](images/cec1.jpeg)
 ![Project Logo](images/cec2.jpg)
+![Project Logo](images/cec1.jpeg)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Final Exam Jam Playlist
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
 
-See the [open issues](https://github.com/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Other Relevant Stats
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
 
 * Bench: 135 lbs
 * Consequetive Keepie-Uppies: 56
