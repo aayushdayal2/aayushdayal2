@@ -18,10 +18,10 @@
         <li><a href="#What-I-Intend-To-Change">What I Intend To Change</a></li>
       </ul>
     </li>
-    <li><a href="#Pictures">Pictures!</a></li>
+    <li><a href="#Pictures">Pictures</a></li>
       <ul>
-        <li><a href="#Executive's-Meeting-2023-Saskatoon">EM 2023</a></li>
-        <li><a href="#Annual-General-Meeting-&-Retreat-2023-Winnipeg">AGMR 2023</a></li>
+        <li><a href="#Executive-Meeting-2023-Saskatoon">EM 2023</a></li>
+        <li><a href="#Annual-General-Meeting-and-Retreat-2023-Winnipeg">AGMR 2023</a></li>
         <li><a href="#Okanagan-Engineering-Competition-2023-Kelowna">OEC 2023</a></li>
         <li><a href="#Western-Engineering-Competition-2024-Winnipeg">WEC 2024</a></li>
         <li><a href="#Conference-on-Sustainability-in-Engineering-2024-Toronto">CSE 2024</a></li>
@@ -67,9 +67,9 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 ## Pictures
 
-### Executive's Meeting 2023 Saskatoon
+### Executive Meeting 2023 Saskatoon
 
-### Annual General Meeting & Retreat 2023 Winnipeg
+### Annual General Meeting and Retreat 2023 Winnipeg
 
 ### Okanagan Engineering Competition 2023 Kelowna
 
