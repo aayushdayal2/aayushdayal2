@@ -102,18 +102,20 @@ Photographer messed up :skull:
 
 ## Final Exam Jam Playlist
 
+Check out this music playlist that inspired the project:
 
+[![Academic Weapon](![Project Logo](images/meme.jpg)](https://music.youtube.com/playlist?list=PLe0MX5l-4t2zzmU672tiAVyompGprPHeZ&si=HdmAn0fzKiCHxGTh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Other Relevant Stats
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Here are some other stats that are extremely crucial in running a student society:
 
 * Bench: 135 lbs
 * Consequetive Keepie-Uppies: 56
 * Chess Elo (Rapid): ~900
-* Fork the Project
+* All-nighters: ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
