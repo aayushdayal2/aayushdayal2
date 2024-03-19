@@ -50,7 +50,7 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 1. ***Past Executive Experience:*** Serving as ***VP Internal*** this year
 2. Served as ***UBCO’s Head Delegate*** and attended various ***Engineering Conferences*** in ***Toronto***, ***Winnipeg***, and ***Saskatoon***
 3. Organised the ***Okanagan Engineering Competition (OEC)*** on campus
-4. One of our student teams that qualified from OEC went on to secure the ***Runner’s Up Position*** in the ***Canadian Engineering Competition*** in ***Calgary***
+4. Serving as the ***Regional Competition Director*** of ***WESST (Western Engineering Student Societies' Team)*** this year
 
 ### What I Intend To Change
 
