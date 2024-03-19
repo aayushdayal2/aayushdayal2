@@ -113,7 +113,7 @@ No words, just plain music, full focus:
 Here are some other stats that are extremely crucial in running a student society:
 
 * Bench: 135 lbs
-* Consequetive Keepie-Uppies: 56
+* Consequtive Keepie-Uppies: 156
 * Chess Elo (Rapid): ~900
 * All-nighters: ...
 
