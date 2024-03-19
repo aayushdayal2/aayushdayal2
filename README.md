@@ -104,7 +104,7 @@ Photographer messed up :skull:
 
 Check out this music playlist that inspired the project:
 
-[![Academic Weapon](![Project Logo](images/meme.jpg)](https://music.youtube.com/playlist?list=PLe0MX5l-4t2zzmU672tiAVyompGprPHeZ&si=HdmAn0fzKiCHxGTh)
+[Hit me](https://music.youtube.com/playlist?list=PLe0MX5l-4t2zzmU672tiAVyompGprPHeZ&si=HdmAn0fzKiCHxGTh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
