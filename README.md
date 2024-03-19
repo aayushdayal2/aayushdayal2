@@ -66,7 +66,9 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 ### Executive Meeting 2023 Saskatoon
 
 ![Project Logo](images/em1.JPG)
-![Project Logo](images/em2.jpg)
+<img src="images/em1.jpg" width="300">
+<img src="images/em2.jpg" width="800">
+
 Photographer messed up :skull:
 
 ### Annual General Meeting and Retreat 2023 Winnipeg
@@ -85,6 +87,7 @@ Photographer messed up :skull:
 ### Western Engineering Competition 2024 Winnipeg
 
 ![Project Logo](images/wec1.jpg)
+<img src="images/wec1.jpg" height="1000">
 ![Project Logo](images/wec2.jpg)
 ![Project Logo](images/wec3.jpg)
 
@@ -102,9 +105,9 @@ Photographer messed up :skull:
 
 ## Final Exam Jam Playlist
 
-Check out this music playlist that inspired the project:
+No words, just plain music, full focus:
 
-[Hit me](https://music.youtube.com/playlist?list=PLe0MX5l-4t2zzmU672tiAVyompGprPHeZ&si=HdmAn0fzKiCHxGTh)
+[Hit me!](https://music.youtube.com/playlist?list=PLe0MX5l-4t2zzmU672tiAVyompGprPHeZ&si=HdmAn0fzKiCHxGTh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
