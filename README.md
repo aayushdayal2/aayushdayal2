@@ -57,7 +57,7 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 1. Implement a ***faster mode of operation***
 2. Throw more ***non-engineering related events*** like ***Avalanche***
 3. Do more ***club/frat*** collaborations
-4. Provide timely & equitable ***funding***
+4. Provide timely & equitable ***club funding***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
