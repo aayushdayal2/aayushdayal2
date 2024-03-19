@@ -45,7 +45,7 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 ## Why You Should Vote For Me
 
-### What I Bring To The Table
+### What I Bring To The Table (see pictures given below)
 
 1. ***Past Executive Experience:*** Serving as ***VP Internal*** this year
 2. Served as ***UBCO’s Head Delegate*** and attended various ***Engineering Conferences*** in ***Toronto***, ***Winnipeg***, and ***Saskatoon***
@@ -65,8 +65,8 @@ The Okanagan Engineering Society, or EngSoc, is the student engineering represen
 
 ### Executive Meeting 2023 Saskatoon
 
-<img src="images/em1.JPG" height="500">
-<img src="images/em2.jpg" width="1000">
+<img src="images/em1.JPG" width="800">
+<img src="images/em2.jpg" width="800">
 
 Photographer messed up :skull:
 
@@ -78,28 +78,25 @@ Photographer messed up :skull:
 
 ### Okanagan Engineering Competition 2023 Kelowna
 
-![Project Logo](images/oec1.JPG)
-<img src="images/oec1.JPG" width="800">
-![Project Logo](images/oec3.JPG)
-![Project Logo](images/oec2.JPG)
-
+<img src="images/oec1.JPG" width="600">
+<img src="images/oec2.JPG" width="800">
+<img src="images/oec3.JPG" width="800">
 
 ### Western Engineering Competition 2024 Winnipeg
 
-![Project Logo](images/wec1.jpg)
-<img src="images/wec1.jpg" height="1000">
-![Project Logo](images/wec2.jpg)
-![Project Logo](images/wec3.jpg)
+<img src="images/wec1.jpg" width="800">
+<img src="images/wec2.jpg" width="800">
+<img src="images/wec3.jpg" width="800">
 
 ### Conference on Sustainability in Engineering 2024 Toronto
 
-![Project Logo](images/cse1.JPG)
+<img src="images/cse1.JPG" width="800">
 
 ### Canadian Engineering Competition 2024 Calgary
 
-![Project Logo](images/cec2.jpg)
-![Project Logo](images/cec1.jpeg)
-
+<img src="images/cec2.jpg" width="400">
+<img src="images/cec1.jpeg" width="800">
+I organised the Okanagan Engineering Competition in November & one of our own UBCO teams qualified their way up to the Canadian Engineering Competition 2024, securing the runner's up position!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,6 +116,8 @@ Here are some other stats that are extremely crucial in running a student societ
 * Consequetive Keepie-Uppies: 56
 * Chess Elo (Rapid): ~900
 * All-nighters: ...
+
+<img src="images/meme.jpeg" width="300">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
